@@ -4,7 +4,8 @@
 
 This project is an AI-powered grading system designed to automate the evaluation of coding assignments. It uses advanced language models (LLMs) to provide detailed feedback, assign grades based on a marking scheme, and handle recheck requests efficiently.
 
-[![Watch the video](https://img.youtube.com/vi/DuxVzKifhvw/0.jpg)](https://youtu.be/DuxVzKifhvw)
+<iframe width="935" height="526" src="https://www.youtube.com/embed/DuxVzKifhvw" title="PaperPilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## Features
