@@ -6,7 +6,7 @@ import os
 from typing_extensions import TypedDict
 
 
-genai.configure(api_key="AIzaSyBamCfjQfvXxgYRmOngc6yWwVeQIULspZ8")
+genai.configure(api_key="KEY_HERE")
 
 BASE_PROMPT = """
 You are an assistant helping grade coding assignments. Evaluate the student's code based on the provided marking scheme.
