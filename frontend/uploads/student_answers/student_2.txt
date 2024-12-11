@@ -1,0 +1,30 @@
+# Question 1: calculate_area
+def calculate_area(radius):
+    return 3.14 * radius * radius
+
+# Question 2: is_prime
+def is_prime(num):
+    if num <= 1:
+        return False
+    for i in range(2, int(num ** 0.5) + 1):
+        if num % i == 0:
+            return False
+    return True
+
+# Question 3: fibonacci_sequence
+def fibonacci_sequence(n):
+    if n == 1:
+        return [0]
+    sequence = [0, 1]
+    while len(sequence) < n:
+        sequence.append(sequence[-1] + sequence[-2])
+    return sequence
+
+# Question 4: sort_names
+def sort_names(names):
+    names.sort()
+    return names
+
+# Question 5: remove_duplicates
+def remove_duplicates(items):
+    return list(set(items))  # This won't maintain the original order

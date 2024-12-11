@@ -1,0 +1,31 @@
+Marking Scheme for Question 1 (calculate_area):
+- Correct use of the formula to calculate area: 3 marks
+- Handling invalid inputs (e.g., negative values): 2 marks
+- Code readability (clear variable names, comments): 2 marks
+- Total: 7 marks
+
+Marking Scheme for Question 2 (is_prime):
+- Correct identification of prime numbers: 4 marks
+- Efficiency of the algorithm (avoiding unnecessary computations): 3 marks
+- Code readability (clear variable names, comments): 2 marks
+- Total: 9 marks
+
+Marking Scheme for Question 3 (fibonacci_sequence):
+- Correct implementation of the Fibonacci sequence: 4 marks
+- Handling special cases (e.g., n = 0, n = 1): 2 marks
+- Code readability (clear variable names, comments): 2 marks
+- Total: 8 marks
+
+Marking Scheme for Question 4 (sort_names):
+- Correct alphabetical sorting: 3 marks
+- Handling both uppercase and lowercase inputs: 3 marks
+- Code readability (clear variable names, comments): 2 marks
+- Total: 8 marks
+
+Marking Scheme for Question 5 (remove_duplicates):
+- Correctly identifying and removing duplicate elements: 4 marks
+- Maintaining the order of first appearance: 3 marks
+- Code readability (clear variable names, comments): 2 marks
+- Total: 9 marks
+
+Total Possible Marks : 41

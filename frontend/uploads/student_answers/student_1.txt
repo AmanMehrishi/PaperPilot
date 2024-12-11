@@ -1,0 +1,35 @@
+# Question 1: calculate_area
+def calculate_area(radius):
+    if radius < 0:
+        return "Invalid input, radius must be positive"
+    return 3.14 * radius ** 2
+
+# Question 2: is_prime
+def is_prime(num):
+    if num <= 1:
+        return False
+    for i in range(2, num):
+        if num % i == 0:
+            return False
+    return True
+
+# Question 3: fibonacci_sequence
+def fibonacci_sequence(n):
+    if n <= 0:
+        return []
+    sequence = [0, 1]
+    while len(sequence) < n:
+        sequence.append(sequence[-1] + sequence[-2])
+    return sequence[:n]
+
+# Question 4: sort_names
+def sort_names(names):
+    return sorted(names, key=str.lower)
+
+# Question 5: remove_duplicates
+def remove_duplicates(items):
+    unique_items = []
+    for item in items:
+        if item not in unique_items:
+            unique_items.append(item)
+    return unique_items

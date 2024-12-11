@@ -1,0 +1,14 @@
+Question 1:
+Write a Python function named `calculate_area` that takes one parameter, `radius`, and returns the area of a circle. The formula to calculate the area is: area = π * radius^2. Use π = 3.14. Ensure that the function handles invalid inputs (such as negative values) gracefully.
+
+Question 2:
+Write a Python function named `is_prime` that takes an integer as input and returns `True` if the number is a prime number and `False` otherwise. The function should efficiently determine whether the number is prime. Prime numbers are greater than 1 and are only divisible by 1 and themselves.
+
+Question 3:
+Write a Python function named `fibonacci_sequence` that takes one parameter, `n`, and returns a list of the first `n` numbers in the Fibonacci sequence. The Fibonacci sequence is a series of numbers where the next number is found by adding up the two numbers before it. The sequence starts with 0 and 1.
+
+Question 4:
+Write a Python function named `sort_names` that takes a list of names (strings) and returns a list sorted alphabetically. Ensure that your function can handle both uppercase and lowercase input correctly by making the sorting case-insensitive.
+
+Question 5:
+Write a Python function named `remove_duplicates` that takes a list as input and returns a new list with all the duplicate elements removed. The elements in the resulting list should maintain the order in which they first appeared.
